@@ -7,6 +7,7 @@ An end-to-end customer analytics project for Giftora, a fictional gifting compan
 
 Giftora is a fictional gifting company that sells to customers in several countries. This project analyses its customer and sales data to answer three things:
 
+
 ## Business Problem
 
 The business wants to identify its most valuable customers and reduce churn among customers who are at risk of leaving.
