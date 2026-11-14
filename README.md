@@ -7,18 +7,18 @@ An end-to-end customer analytics project for Giftora, a fictional gifting compan
 
 Giftora is a fictional gifting company that sells to customers in several countries. This project analyses its customer and sales data to answer three things:
 
-##Business Problem
+## Business Problem
 
 The business wants to identify its most valuable customers and reduce churn among customers who are at risk of leaving.
 
 
 ## Business Questions Answered
 
-Who are our most valuable customers, and how much revenue do they actually contribute?
-Which customers have gone quiet and are at risk of churning?
-How does customer value and retention trend across time, by month, quarter, and year?
-How does customer value and churn differ across geographic markets?
-What specific, concrete actions should the business take for each customer segment?
+1.Who are our most valuable customers, and how much revenue do they actually contribute?
+2.Which customers have gone quiet and are at risk of churning?
+3.How does customer value and retention trend across time, by month, quarter, and year?
+4.How does customer value and churn differ across geographic markets?
+5.What specific, concrete actions should the business take for each customer segment?
 
 
 ## Data Source
@@ -86,3 +86,7 @@ Step 4 : Power BI, Dashboard Build. The final scored table was loaded into Power
  ###  Project Status
 
 This project is still in progress. Two dashboards are complete so far, Business Overview and RFM Analysis. Next, I plan to build a **Home dashboard** that links to both pages through navigation buttons, so the whole report can be explored from one starting point. I will also keep exploring more features of Power BI and add them to this project as I learn.
+
+###Author
+
+ Anjali Kumari
