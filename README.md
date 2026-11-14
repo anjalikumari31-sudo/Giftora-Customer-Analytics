@@ -31,6 +31,7 @@ The project uses the Online Retail II dataset from the UCI Machine Learning Repo
 
 ## Tools and Tech Stack
 
+
 | Tool | Purpose in this project |
 |---|---|
 | MySQL Server / MySQL Workbench | Data import, cleaning, deduplication, and exploratory querying on the full 1M+ row dataset |
