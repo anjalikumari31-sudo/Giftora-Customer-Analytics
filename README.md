@@ -45,10 +45,10 @@ Step 4 — Power BI, Dashboard Build. The final scored table was loaded into Pow
 🔍 Project Walkthrough
 
 🧮 Sample SQL
- <img src="Images/sql sample.png" width="600" alt="Sample SQL">
+ <img src="Images/sql sample.png" width="500" alt="Sample SQL">
    
 🐍 Sample Python
-  <img src="Images/python sample.png" width="600" alt="Sample Python">
+  <img src="Images/python sample.png" width="500" alt="Sample Python">
 
 📊 Dashboard Screenshots
 
