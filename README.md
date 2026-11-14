@@ -54,17 +54,17 @@ Step 4 : Power BI, Dashboard Build. The final scored table was loaded into Power
 
 ##  Project Walkthrough
 
-🧮 Sample SQL
+### Sample SQL : Checking missing records
 
  <img src="Images/sql sample.png" width="500" alt="Sample SQL">
  
    
-🐍 Sample Python
+### Sample Python : Calculating Recency,Frequency and Monetary
 
   <img src="Images/python sample.png" width="500" alt="Sample Python">
   
 
-📊 Dashboard Screenshots
+###  Dashboard Screenshots
 
 
 <img src="Images/customer_BO.png" width="600" alt="Business Overview - Customer view">
