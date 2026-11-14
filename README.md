@@ -45,21 +45,21 @@ Step 4 — Power BI, Dashboard Build. The final scored table was loaded into Pow
 🔍 Project Walkthrough
 
 🧮 Sample SQL
-  ![Sample SQL](Images/sql sample.png)
+ <img src="Images/sql sample.png" width="600" alt="Sample SQL">
    
 🐍 Sample Python
-  ![Sample Python](Images/python sample.png)
+  <img src="Images/python sample.png" width="600" alt="Sample Python">
 
 📊 Dashboard Screenshots
 
 <img src="Images/customer_BO.png" width="600" alt="Business Overview - Customer view">
      Business Overview by  Customer 
 
-![Business Overview - Revenue view](Images/revenue_BO.png)
+<img src="Images/revenue_BO.png" width="600" alt="Business Overview - Revenue view">
      Business Overview by Revenue
 
-![RFM Analysis - Segment view](Images/segment_RFM.png)
+<img src="Images/segment_RFM.png" width="600" alt="RFM Analysis - Segment view">
      RFM Analysis by Segment
 
-![RFM Analysis - Country view](Images/country_RFM.png)
+<img src="Images/country_RFM.png" width="600" alt="RFM Analysis - Country view">
      RFM Analysis by Country
