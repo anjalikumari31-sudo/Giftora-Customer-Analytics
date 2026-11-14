@@ -60,7 +60,6 @@ Step 4 : Power BI, Dashboard Build. The final scored table was loaded into Power
 
 
 <img src="Images/customer_BO.png" width="600" alt="Business Overview - Customer view">
-
                     Business Overview by Customer
                     
      
