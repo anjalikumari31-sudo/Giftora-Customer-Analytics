@@ -1,12 +1,15 @@
 # Giftora-Customer-Analytics
+
 An end-to-end customer analytics project for Giftora, a fictional gifting company, built with MySQL, Python and Power BI. It uses RFM segmentation to find the customers who bring the most revenue and the ones about to leave.
 
 
 ##📌 Project Overview
+
 Giftora is a fictional gifting company that sells to customers in several countries. This project analyses its customer and sales data to answer three things:
 
 
 ##❗Business Problem
+
 Who are our most valuable customers, and how much revenue do they actually contribute?
 Which customers have gone quiet and are at risk of churning?
 How does customer value and retention trend across time, by month, quarter, and year?
@@ -15,6 +18,7 @@ What specific, concrete actions should the business take for each customer segme
 
 
 ##🗂️ Data Source
+
 The project uses the Online Retail II dataset from the UCI Machine Learning Repository, donated by Daqing Chen. It is a real, anonymized transactional dataset from a UK-based, non-store online retailer that sells all-occasion giftware. It covers December 2009 to December 2011 and holds 1,067,371 raw transaction rows across two sheets. The dataset is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). "Giftora" is a fictional brand name used for this portfolio project, while the data itself is real.
 
 
@@ -55,9 +59,10 @@ Step 4 : Power BI, Dashboard Build. The final scored table was loaded into Power
 📊 Dashboard Screenshots
 
 
-Business Overview by Customer
 <img src="Images/customer_BO.png" width="600" alt="Business Overview - Customer view">
 
+                    Business Overview by Customer
+                    
      
 Business Overview by Revenue
 <img src="Images/revenue_BO.png" width="600" alt="Business Overview - Revenue view">
