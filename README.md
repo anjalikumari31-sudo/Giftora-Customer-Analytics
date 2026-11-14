@@ -63,3 +63,7 @@ Step 4 — Power BI, Dashboard Build. The final scored table was loaded into Pow
 
 <img src="Images/country_RFM.png" width="600" alt="RFM Analysis - Country view">
      RFM Analysis by Country
+
+ ### 🚧 Project Status
+
+This project is still in progress. Two dashboards are complete so far, Business Overview and RFM Analysis. Next, I plan to build a **Home dashboard** that links to both pages through navigation buttons, so the whole report can be explored from one starting point. I will also keep exploring more features of Power BI and add them to this project as I learn.
