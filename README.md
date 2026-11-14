@@ -13,10 +13,10 @@ How does customer value and retention trend across time, by month, quarter, and 
 How does customer value and churn differ across geographic markets?
 What specific, concrete actions should the business take for each customer segment?
 
-The data is cleaned and scored with MySQL and Python, then presented in an interactive two-page Power BI dashboard:
 
 ##🗂️ Data Source
 The project uses the Online Retail II dataset from the UCI Machine Learning Repository, donated by Daqing Chen. It is a real, anonymized transactional dataset from a UK-based, non-store online retailer that sells all-occasion giftware. It covers December 2009 to December 2011 and holds 1,067,371 raw transaction rows across two sheets. The dataset is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). "Giftora" is a fictional brand name used for this portfolio project, while the data itself is real.
+
 
 ##🛠️ Tools and Tech Stack
 
@@ -28,6 +28,7 @@ The project uses the Online Retail II dataset from the UCI Machine Learning Repo
 | Power BI Desktop | Two-page interactive dashboard: Business Overview and RFM Analysis |
 | DAX | Measures for customer counts, revenue totals, churn percentage, and average customer value |
 
+
 ##💡 Core Concepts Demonstrated
 
 The project demonstrates RFM analysis, where each customer is scored on Recency (how recently they bought), Frequency (how often they buy) and Monetary value (how much they spend). These scores are used for customer segmentation, which sorts customers into six groups: Champions, Loyal Customers, At Risk, Potential / Other Customers, Lost Customers and New / Promising Customers.
@@ -36,6 +37,7 @@ It also covers churn analysis, tracking the share of customers who stopped buyin
 
 
 ##🔄Project Workflow
+
 Step 1 — Business Requirements Document. Defined a general scope, business questions before any data work began.
 
 Step 2 — SQL, Data Cleaning and Exploration. Imported both raw sheets into MYSQL Server, corrected data types, resolved a mixed date format issue affecting over half the dataset, removed 32,907 exact duplicate rows, and validated row counts at every step against the published UCI total.
@@ -44,13 +46,16 @@ Step 3 — Python, RFM Segmentation. Loaded the cleaned data into pandas, calcul
 
 Step 4 — Power BI, Dashboard Build. The final scored table was loaded into Power BI, and DAX measures were created for Total Customers, Total Revenue, Churned % and Avg Customer Value. Two interactive dashboards were built: Business Overview, which tracks customers and revenue with a Customer / Revenue toggle, and RFM Analysis, which shows segment and country performance and churn trends with a Segment / Country toggle. Both pages share slicers, a "Clear all slicers" button and custom styling with the Giftora logo.
 
+
 ##🔍 Project Walkthrough
 
 🧮 Sample SQL
+
  <img src="Images/sql sample.png" width="500" alt="Sample SQL">
  
    
 🐍 Sample Python
+
   <img src="Images/python sample.png" width="500" alt="Sample Python">
   
 
