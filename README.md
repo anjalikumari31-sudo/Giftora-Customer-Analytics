@@ -45,12 +45,14 @@ Step 4 — Power BI, Dashboard Build. The final scored table was loaded into Pow
 🔍 Project Walkthrough
 
 🧮 Sample SQL
+  ![Sample SQL](Images/sql sample.png)
    
 🐍 Sample Python
+  ![Sample Python](Images/python sample.png)
 
 📊 Dashboard Screenshots
 
-![Business Overview - Customer view](Images/customer_BO.png)
+<img src="Images/customer_BO.png" width="600" alt="Business Overview - Customer view">
      Business Overview by  Customer 
 
 ![Business Overview - Revenue view](Images/revenue_BO.png)
