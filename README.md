@@ -60,19 +60,23 @@ Step 4 : Power BI, Dashboard Build. The final scored table was loaded into Power
 
 
 <img src="Images/customer_BO.png" width="600" alt="Business Overview - Customer view">
+
                     Business Overview by Customer
                     
      
-Business Overview by Revenue
 <img src="Images/revenue_BO.png" width="600" alt="Business Overview - Revenue view">
 
+                    Business Overview by Revenue
      
-RFM Analysis by Segment
+
 <img src="Images/segment_RFM.png" width="600" alt="RFM Analysis - Segment view">
 
+                    RFM Analysis by Segment
      
-RFM Analysis by Country
+
 <img src="Images/country_RFM.png" width="600" alt="RFM Analysis - Country view">
+
+                    RFM Analysis by Country
      
 
  ### 🚧 Project Status
