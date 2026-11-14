@@ -16,14 +16,12 @@ The business wants to identify its most valuable customers and reduce churn amon
 
 1.Who are our most valuable customers, and how much revenue do they actually contribute?
 
-2.Which customers have gone quiet and are at risk of churning?
-
+2.Which customers are at risk of churning?
 
 3.How does customer value and retention trend across time, by month, quarter, and year?
 
 4.How does customer value and churn differ across geographic markets?
 
-5.What specific, concrete actions should the business take for each customer segment?
 
 
 ## Data Source
